@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>Jaime</id>
+    <title>Jaime</title>
+    <version>2.0.2</version>
+    <authors>Leandro Simões</authors>
+    <owners>Leandro Simões</owners>
+    <summary>Jaime is a Windows application launcher and tools like Alfred is for Mac users.</summary>
+    <description>Jaime is a Windows application launcher and tools like Alfred is for Mac users.</description>
+    <projectUrl>https://github.com/leandrosimoes/Jaime</projectUrl>
+    <tags>jaime application launcher tools alfred for windows</tags>
+    <licenseUrl>https://github.com/leandrosimoes/Jaime/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>https://raw.githubusercontent.com/leandrosimoes/Jaime/master/Jaime/Images/icon-jaime.png</iconUrl>
+  </metadata>
+  <files>
+    <!-- this section controls what actually gets packaged into the Chocolatey package -->
+    <file src="tools\**" target="tools" />
+    <!--Building from Linux? You may need this instead: <file src="tools/**" target="tools" />-->
+  </files>
+</package>
