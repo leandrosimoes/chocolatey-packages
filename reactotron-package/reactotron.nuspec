@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>reactotron</id>
+    <title>reactotron (Install | Non Oficial)</title>
+    <version>2.17.1</version>
+    <authors>Infinite Red</authors>
+    <owners>Infinite Red</owners>
+    <summary>Reactotron is a macOS, Windows, and Linux app for inspecting your React JS and React Native apps.</summary>
+    <description>Reactotron is a macOS, Windows, and Linux app for inspecting your React JS and React Native apps.</description>
+    <projectUrl>https://github.com/infinitered/reactotron</projectUrl>
+    <tags>reactotron non official</tags>
+    <licenseUrl>https://github.com/infinitered/reactotron/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>https://raw.githubusercontent.com/infinitered/reactotron/master/docs/images/readme/Reactotron-128.png</iconUrl>
+  </metadata>
+  <files>
+    <!-- this section controls what actually gets packaged into the Chocolatey package -->
+    <file src="tools\**" target="tools" />
+    <!--Building from Linux? You may need this instead: <file src="tools/**" target="tools" />-->
+  </files>
+</package>
