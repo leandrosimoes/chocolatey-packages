@@ -13,6 +13,8 @@
     <licenseUrl>https://github.com/infinitered/reactotron/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
     <iconUrl>https://raw.githubusercontent.com/infinitered/reactotron/master/docs/images/readme/Reactotron-128.png</iconUrl>
+    <packageSourceUrl>https://chocolatey.org/packages/reactotron</packageSourceUrl>
+    <releaseNotes>https://github.com/infinitered/reactotron/releases</releaseNotes>
   </metadata>
   <files>
     <!-- this section controls what actually gets packaged into the Chocolatey package -->
