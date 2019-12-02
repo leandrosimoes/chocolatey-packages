@@ -2,17 +2,21 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>reactotron</id>
-    <title>reactotron (Install | Non Oficial)</title>
+    <title>reactotron (Install | Non Official)</title>
     <version>2.17.1</version>
     <authors>Infinite Red</authors>
-    <owners>Infinite Red</owners>
+    <owners>leandrosimoes</owners>
     <summary>Reactotron is a macOS, Windows, and Linux app for inspecting your React JS and React Native apps.</summary>
     <description>Reactotron is a macOS, Windows, and Linux app for inspecting your React JS and React Native apps.</description>
     <projectUrl>https://github.com/infinitered/reactotron</projectUrl>
+    <docsUrl>https://github.com/infinitered/reactotron/tree/master/docs</docsUrl>
+    <mailingListUrl>https://infiniteredcommunity.herokuapp.com/</mailingListUrl>
+    <bugTrackerUrl>https://github.com/infinitered/reactotron/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/infinitered/reactotron</projectSourceUrl>
     <tags>reactotron non official</tags>
     <licenseUrl>https://github.com/infinitered/reactotron/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
-    <iconUrl>https://raw.githubusercontent.com/infinitered/reactotron/master/docs/images/readme/Reactotron-128.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/infinitered/reactotron/183665078f843d4131681f8516496544b97c9797/docs/images/readme/Reactotron-128.png</iconUrl>
     <packageSourceUrl>https://chocolatey.org/packages/reactotron</packageSourceUrl>
     <releaseNotes>https://github.com/infinitered/reactotron/releases</releaseNotes>
   </metadata>

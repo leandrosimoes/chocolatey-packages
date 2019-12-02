@@ -5,16 +5,20 @@
     <title>Jaime Application Launcher</title>
     <version>2.0.2</version>
     <authors>Leandro Simões</authors>
-    <owners>Leandro Simões</owners>
+    <owners>leandrosimoes</owners>
     <summary>Jaime is a Windows application launcher and tools like Alfred is for Mac users.</summary>
     <description>Jaime is a Windows application launcher and tools like Alfred is for Mac users.</description>
     <projectUrl>https://github.com/leandrosimoes/Jaime</projectUrl>
     <tags>jaime application launcher tools alfred for windows</tags>
     <licenseUrl>https://github.com/leandrosimoes/Jaime/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
-    <iconUrl>https://raw.githubusercontent.com/leandrosimoes/Jaime/master/Jaime/Images/icon-jaime.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/leandrosimoes/Jaime/d0eff944bb07f7a42e65f95f5fba3723757e8d26/Jaime/Images/icon-jaime.png</iconUrl>
     <packageSourceUrl>https://chocolatey.org/packages/Jaime</packageSourceUrl>
     <releaseNotes>https://github.com/leandrosimoes/Jaime/releases</releaseNotes>
+    <docsUrl>https://github.com/leandrosimoes/Jaime/tree/master/docs</docsUrl>
+    <mailingListUrl>https://github.com/leandrosimoes/Jaime/tree/master/docs</mailingListUrl>
+    <bugTrackerUrl>https://github.com/leandrosimoes/Jaime/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/leandrosimoes/Jaime</projectSourceUrl>
   </metadata>
   <files>
     <!-- this section controls what actually gets packaged into the Chocolatey package -->
