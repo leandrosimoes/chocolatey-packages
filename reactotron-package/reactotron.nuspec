@@ -17,7 +17,7 @@
     <licenseUrl>https://github.com/infinitered/reactotron/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
     <iconUrl>https://rawcdn.githack.com/infinitered/reactotron/183665078f843d4131681f8516496544b97c9797/docs/images/readme/Reactotron-128.png</iconUrl>
-    <packageSourceUrl>https://chocolatey.org/packages/reactotron</packageSourceUrl>
+    <packageSourceUrl>https://github.com/leandrosimoes/chocolatey-packages</packageSourceUrl>
     <releaseNotes>https://github.com/infinitered/reactotron/releases</releaseNotes>
   </metadata>
   <files>

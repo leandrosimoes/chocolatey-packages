@@ -13,7 +13,7 @@
     <licenseUrl>https://github.com/leandrosimoes/Jaime/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
     <iconUrl>https://rawcdn.githack.com/leandrosimoes/Jaime/d0eff944bb07f7a42e65f95f5fba3723757e8d26/Jaime/Images/icon-jaime.png</iconUrl>
-    <packageSourceUrl>https://chocolatey.org/packages/Jaime</packageSourceUrl>
+    <packageSourceUrl>https://github.com/leandrosimoes/chocolatey-packages</packageSourceUrl>
     <releaseNotes>https://github.com/leandrosimoes/Jaime/releases</releaseNotes>
     <docsUrl>https://github.com/leandrosimoes/Jaime/tree/master/docs</docsUrl>
     <mailingListUrl>https://github.com/leandrosimoes/Jaime/tree/master/docs</mailingListUrl>
